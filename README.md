@@ -127,17 +127,6 @@ This is safer than directly inserting user input into an SQL query.
 
 ---
 
-## 📸 Application Preview
-
-*Add a screenshot of your application here.*
-
-Example:
-
-```markdown
-![Smart To-Do Application](screenshot.png)
-```
-
----
 
 ## 🎓 Learning Outcomes
 
